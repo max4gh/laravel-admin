@@ -1,5 +1,5 @@
 {
-    "name": "max/laravel-admin",
+    "name": "max4gh/laravel-admin",
     "description": "base on laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "chart", "form"],
